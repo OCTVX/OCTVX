@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # OCTVX
@@ -190,9 +189,7 @@ Free Resources
 
 ---
 
-## > cat tech_stack.txt
-
-### Engineering Stack
+## > tech_stack
 
 <p align="center">
 
@@ -203,8 +200,6 @@ Free Resources
 <img src="https://img.shields.io/badge/C-00cc6a?style=for-the-badge&labelColor=0d1a0d" />
 
 </p>
-
-### Software Stack
 
 <p align="center">
 
@@ -247,4 +242,3 @@ Free Resources
 `// Built in the dark · Powered by caffeine and circuit boards`
 
 </div>
-````
