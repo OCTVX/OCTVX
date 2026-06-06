@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
+ ██████╗  ██████╗████████╗██╗   ██╗██╗  ██╗
+██╔═══██╗██╔════╝╚══██╔══╝██║   ██║╚██╗██╔╝
+██║   ██║██║        ██║   ██║   ██║ ╚███╔╝ 
+██║   ██║██║        ██║   ╚██╗ ██╔╝ ██╔██╗ 
+╚██████╔╝╚██████╗   ██║    ╚████╔╝ ██╔╝ ██╗
+ ╚═════╝  ╚═════╝   ╚═╝     ╚═══╝  ╚═╝  ╚═╝
+ENGINEERING · CODE · EDUCATION
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-<!--
-**OCTVX/OCTVX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> whoami
+OCTVX is a technical collective built around one idea:
+engineering knowledge should be accessible, applied, and open.
+We build. We teach. We ship.
 
-Here are some ideas to get you started:
+> ls services/
+📁 freelance/
+   └── PCB Design & Layout
+   └── MATLAB / Simulink Modeling
+   └── Embedded Firmware (STM32, AVR, ESP)
+   └── Signal Processing & Control Systems
+   └── Web & Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 students/
+   └── Homework & Problem Solving
+   └── Project Guidance
+   └── Exam Preparation
+   └── EE Course Support
+
+📁 blog/
+   └── Electrical Engineering Deep Dives
+   └── Embedded Systems Tutorials
+   └── MATLAB / Simulink Guides
+   └── Tech & Engineering Articles (EN + FA)
+
+📁 lab/
+   └── Open-source Tools
+   └── Internal R&D Projects
+   └── Free Online Calculators
+
+> cat tech_stack.txt
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+> cat contact.txt
+pythonoctvx = {
+    "email"    : "octvx.io@gmail.com",
+    "website"  : "coming soon...",
+    "github"   : "github.com/OCTVX",
+    "status"   : "OPEN for freelance & student projects",
+    "languages": ["English", "فارسی"]
+}
+
+> ping --team
+
+We're a small but sharp collective of engineers and developers.
+If you have a project, a problem, or just want to learn — we're here.
+
+
+<div align="center">
+// Built in the dark · Powered by caffeine and circuit boards
