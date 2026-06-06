@@ -1,69 +1,44 @@
 <div align="center">
 
-<img src="./assets/octvx-banner.png" width="100%">
+<img src="./assets/octvx-banner.gif" width="100%">
+
+<br><br>
 
 # OCTVX
 
-### ENGINEERING · CODE · EDUCATION
+### ENGINEERING · EMBEDDED · SOFTWARE · EDUCATION
 
 <br>
 
-![Projects](https://img.shields.io/badge/Open%20for%20Projects-ONLINE-00cc6a?style=for-the-badge\&labelColor=0d1a0d)
-![Domain](https://img.shields.io/badge/Domain-EE%20%C2%B7%20Embedded%20%C2%B7%20SW-7c3aed?style=for-the-badge\&labelColor=0d0d1a)
-![Languages](https://img.shields.io/badge/Languages-EN%20%C2%B7%20FA-00cc6a?style=for-the-badge\&labelColor=0d1a0d)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00cc6a?style=for-the-badge&labelColor=0d1a0d)
+![Collective](https://img.shields.io/badge/OCTVX-ENGINEERING%20COLLECTIVE-7c3aed?style=for-the-badge&labelColor=0d0d1a)
+![Languages](https://img.shields.io/badge/LANGUAGES-EN%20%7C%20FA-00cc6a?style=for-the-badge&labelColor=0d1a0d)
 
 </div>
 
 ---
 
-# > whoami
+# ⚡ About OCTVX
 
-```bash
-$ whoami
+> Engineering knowledge should be accessible, practical, and open.
 
-Name      : OCTVX
-Type      : Engineering Collective
+OCTVX is a technical collective focused on:
 
-Focus     : Electronics
-            Embedded Systems
-            Software Engineering
-            Technical Education
-
-Mission   : Engineering knowledge should be
-            accessible, applied, and open.
-
-Status    : ONLINE
-```
+- 🔬 Electronics Engineering
+- ⚙️ Embedded Systems
+- 💻 Software Development
+- 📚 Technical Education
+- 🚀 Open Source Projects
 
 <div align="center">
 
-### We build. We teach. We ship.
+### **We Build. We Teach. We Ship.**
 
 </div>
 
 ---
 
-# > status
-
-```yaml
-Collective : OCTVX
-
-State:
-  ONLINE
-
-Domains:
-  - Electronics Engineering
-  - Embedded Systems
-  - Software Development
-  - Technical Education
-
-Current Objective:
-  Build practical engineering tools.
-```
-
----
-
-# > services
+# 🧠 Core Domains
 
 <table>
 <tr>
@@ -74,9 +49,9 @@ Current Objective:
 
 ### Embedded
 
-STM32
-RTOS
-Drivers
+STM32  
+RTOS  
+Drivers  
 Firmware
 
 </td>
@@ -85,12 +60,12 @@ Firmware
 
 <img src="https://skillicons.dev/icons?i=matlab" width="70"/>
 
-### Engineering
+### Electronics
 
-PCB Design
-Altium
+PCB Design  
+Altium  
+KiCad  
 MATLAB
-Signal Processing
 
 </td>
 
@@ -100,10 +75,10 @@ Signal Processing
 
 ### Education
 
-Mentoring
-Exam Prep
-Project Guidance
-EE Support
+Mentoring  
+Tutorials  
+Guidance  
+Support
 
 </td>
 
@@ -113,9 +88,9 @@ EE Support
 
 ### Software
 
-Web Apps
-APIs
-Automation
+Web Apps  
+APIs  
+Automation  
 Tools
 
 </td>
@@ -125,11 +100,11 @@ Tools
 
 ---
 
-# > tech_stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,nextjs,git" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,linux,nextjs,git,github" />
 
 <br><br>
 
@@ -142,75 +117,68 @@ Tools
 
 ---
 
-# > github_stats
+# 🚀 Current Focus
+
+- Open Source Engineering Tools
+- Embedded Systems Research
+- EE Educational Content
+- Practical Engineering Resources
+- Software Development
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OCTVX&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OCTVX&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCTVX&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCTVX&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=OCTVX&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# > streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=OCTVX&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# > current_focus
-
-* ⚡ Embedded Systems
-* 🔬 Open Source Engineering Tools
-* 📚 Educational Content (EN / FA)
-* 🌐 Software Development
-* 🚀 Practical Engineering Resources
-
----
-
-# > lab
+# 🔬 Projects
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-🔬
+### 🐙 OCTVX Lab
 
-### Research
-
-Experiments
-Prototyping
-Validation
+Engineering Experiments  
+Research Projects  
+Open Source Tools
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-🛠️
+### ⚡ Embedded
 
-### Open Source
-
-Libraries
-Utilities
-Developer Tools
+STM32 Projects  
+Firmware Development  
+Signal Processing
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-📈
+### 🌐 Software
 
-### Calculators
-
-Engineering Tools
-Free Resources
+Web Platforms  
+Developer Utilities  
+Automation Tools
 
 </td>
 
@@ -219,21 +187,7 @@ Free Resources
 
 ---
 
-# > contact
-
-```python
-{
-    "github": "https://github.com/OCTVX",
-    "email": "contact@octvx.dev",
-    "website": "coming soon",
-    "languages": ["English", "Persian"],
-    "status": "available"
-}
-```
-
----
-
-# > contribution_snake
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -243,22 +197,13 @@ Free Resources
 
 ---
 
-# > ping --team
+# 📫 Contact
 
-**Building practical engineering solutions, sharing knowledge, contributing to open source, and turning ideas into working systems.**
-
----
-
-<div align="center">
-
-ENGINEERING · CODE · EDUCATION
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=OCTVX&color=00cc6a&style=flat-square">
-
-<br><br>
-
-`// Built in the dark · Powered by caffeine and circuit boards`
-
-</div>
+```python
+{
+    "github": "https://github.com/OCTVX",
+    "email": "contact@octvx.dev",
+    "website": "coming soon",
+    "languages": ["English", "Persian"],
+    "status": "available"
+}
